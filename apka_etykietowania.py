@@ -1,3 +1,5 @@
+#program innego uzytkownika
+
 import os
 import sys
 import json
