@@ -1,12 +1,20 @@
-import os 
-import numpy as np 
-from PIL import Image 
-  
-import matplotlib.pyplot as plt 
-  
-import torch 
-import torchvision
 
+#fragment wyciagniety z ModelTraining
+import os 
+import torch
+from torch.utils.data import Dataset
+from PIL import Image
+from torchvision import transforms
+
+# llista klas (10)
+class_names = ['widelec', 'lyzka', 'noz', 'paleczki', 'trzepaczka', 'Talerz', 'Miska', 'Garnek', 'Patelnia', 'Kubek']
+
+transform = transforms.Compose([
+    transforms.Resize((128, 128)),
+    transforms.ToTensor(),
+])
+
+# fragment z przykladu https://www.geeksforgeeks.org/image-datasets-dataloaders-and-transforms-in-pytorch/
 class CustomDataset(Dataset):
     def __init__(self, annotations, image_dir, transform=None):
         self.annotations = annotations
@@ -31,4 +39,15 @@ class CustomDataset(Dataset):
         if self.transform:
             image = self.transform(image)
 
-        return image, labels, image_path 
+        return image, labels, image_path
+
+
+
+# sciezka do zdjec
+image_dir = "/path/to/images"
+
+dataset = CustomDataset(annotations, image_dir, transform=transform)
+
+image, labels, path = dataset[0]
+print(f"Image path: {path}")
+print(f"Labels: {labels}")
