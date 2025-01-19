@@ -1,0 +1,4390 @@
+[   {
+    "image": "image_001.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                9,
+                43,
+                713,
+                648
+            ]
+        }
+    ]
+},
+{
+    "image": "image_002.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                83,
+                62,
+                1128,
+                729
+            ]
+        }
+    ]
+},
+{
+    "image": "image_003.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                94,
+                193,
+                718,
+                531
+            ]
+        }
+    ]
+},
+{
+    "image": "image_004.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                103,
+                209,
+                597,
+                381
+            ]
+        }
+    ]
+},
+{
+    "image": "image_005.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                0,
+                120,
+                1000,
+                760
+            ]
+        }
+    ]
+},
+{
+    "image": "image_006.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                48,
+                263,
+                1499,
+                1011
+            ]
+        }
+    ]
+},
+{
+    "image": "image_007.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                71,
+                362,
+                1879,
+                1247
+            ]
+        }
+    ]
+},
+{
+    "image": "image_008.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                85,
+                0,
+                830,
+                750
+            ]
+        }
+    ]
+},
+{
+    "image": "image_009.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                151,
+                245,
+                678,
+                498
+            ]
+        }
+    ]
+},
+{
+    "image": "image_010.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                34,
+                127,
+                629,
+                534
+            ]
+        }
+    ]
+},
+{
+    "image": "image_011.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                10,
+                94,
+                431,
+                258
+            ]
+        }
+    ]
+},
+{
+    "image": "image_012.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                26,
+                481,
+                1985,
+                1046
+            ]
+        }
+    ]
+},
+{
+    "image": "image_013.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                18,
+                131,
+                1168,
+                738
+            ]
+        }
+    ]
+},
+{
+    "image": "image_014.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                33,
+                48,
+                196,
+                145
+            ]
+        }
+    ]
+},
+{
+    "image": "image_015.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                163,
+                290,
+                1686,
+                1425
+            ]
+        }
+    ]
+},
+{
+    "image": "image_016.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                25,
+                154,
+                1135,
+                835
+            ]
+        }
+    ]
+},
+{
+    "image": "image_017.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                18,
+                53,
+                1954,
+                1357
+            ]
+        }
+    ]
+},
+{
+    "image": "image_018.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                5,
+                125,
+                833,
+                398
+            ]
+        }
+    ]
+},
+{
+    "image": "image_019.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                24,
+                162,
+                956,
+                670
+            ]
+        }
+    ]
+},
+{
+    "image": "image_020.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                57,
+                261,
+                1270,
+                877
+            ]
+        }
+    ]
+},
+{
+    "image": "image_021.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                3,
+                3,
+                460,
+                401
+            ]
+        }
+    ]
+},
+{
+    "image": "image_022.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                1,
+                1,
+                464,
+                324
+            ]
+        }
+    ]
+},
+{
+    "image": "image_023.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                3,
+                3,
+                462,
+                369
+            ]
+        }
+    ]
+},
+{
+    "image": "image_024.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                14,
+                154,
+                712,
+                438
+            ]
+        }
+    ]
+},
+{
+    "image": "image_025.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                1,
+                2,
+                461,
+                310
+            ]
+        }
+    ]
+},
+{
+    "image": "image_026.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                5,
+                0,
+                460,
+                363
+            ]
+        }
+    ]
+},
+{
+    "image": "image_027.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                3,
+                2,
+                461,
+                363
+            ]
+        }
+    ]
+},
+{
+    "image": "image_028.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                1,
+                1,
+                463,
+                320
+            ]
+        }
+    ]
+},
+{
+    "image": "image_029.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                3,
+                2,
+                365,
+                244
+            ]
+        }
+    ]
+},
+{
+    "image": "image_030.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                1,
+                4,
+                463,
+                316
+            ]
+        }
+    ]
+},
+{
+    "image": "image_031.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                3,
+                2,
+                459,
+                333
+            ]
+        }
+    ]
+},
+{
+    "image": "image_032.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                0,
+                0,
+                733,
+                733
+            ]
+        }
+    ]
+},
+{
+    "image": "image_033.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                2,
+                0,
+                463,
+                404
+            ]
+        }
+    ]
+},
+{
+    "image": "image_034.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                1,
+                0,
+                464,
+                301
+            ]
+        }
+    ]
+},
+{
+    "image": "image_035.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                2,
+                87,
+                596,
+                446
+            ]
+        }
+    ]
+},
+{
+    "image": "image_036.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                2,
+                0,
+                462,
+                308
+            ]
+        }
+    ]
+},
+{
+    "image": "image_037.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                0,
+                1,
+                464,
+                330
+            ]
+        }
+    ]
+},
+{
+    "image": "image_038.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                52,
+                150,
+                633,
+                444
+            ]
+        }
+    ]
+},
+{
+    "image": "image_039.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                4,
+                4,
+                459,
+                322
+            ]
+        }
+    ]
+},
+{
+    "image": "image_040.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                2,
+                5,
+                310,
+                269
+            ]
+        }
+    ]
+},
+{
+    "image": "image_041.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                17,
+                45,
+                698,
+                644
+            ]
+        }
+    ]
+},
+{
+    "image": "image_042.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                2,
+                0,
+                462,
+                442
+            ]
+        }
+    ]
+},
+{
+    "image": "image_043.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                0,
+                0,
+                299,
+                207
+            ]
+        }
+    ]
+},
+{
+    "image": "image_044.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                2,
+                0,
+                463,
+                280
+            ]
+        }
+    ]
+},
+{
+    "image": "image_045.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                52,
+                0,
+                319,
+                275
+            ]
+        }
+    ]
+},
+{
+    "image": "image_046.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                107,
+                228,
+                541,
+                300
+            ]
+        }
+    ]
+},
+{
+    "image": "image_047.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                47,
+                265,
+                928,
+                493
+            ]
+        }
+    ]
+},
+{
+    "image": "image_048.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                95,
+                124,
+                430,
+                310
+            ]
+        }
+    ]
+},
+{
+    "image": "image_049.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                0,
+                0,
+                466,
+                320
+            ]
+        }
+    ]
+},
+{
+    "image": "image_050.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                0,
+                0,
+                447,
+                355
+            ]
+        }
+    ]
+},
+{
+    "image": "image_051.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                3,
+                194,
+                837,
+                618
+            ]
+        }
+    ]
+},
+{
+    "image": "image_052.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                5,
+                3,
+                458,
+                377
+            ]
+        }
+    ]
+},
+{
+    "image": "image_053.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                2,
+                4,
+                461,
+                315
+            ]
+        }
+    ]
+},
+{
+    "image": "image_054.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                4,
+                0,
+                458,
+                299
+            ]
+        }
+    ]
+},
+{
+    "image": "image_055.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                74,
+                80,
+                500,
+                326
+            ]
+        }
+    ]
+},
+{
+    "image": "image_056.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                37,
+                64,
+                376,
+                323
+            ]
+        }
+    ]
+},
+{
+    "image": "image_057.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                78,
+                48,
+                475,
+                386
+            ]
+        }
+    ]
+},
+{
+    "image": "image_058.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                14,
+                56,
+                474,
+                401
+            ]
+        }
+    ]
+},
+{
+    "image": "image_059.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                0,
+                17,
+                640,
+                447
+            ]
+        }
+    ]
+},
+{
+    "image": "image_060.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                4,
+                0,
+                461,
+                204
+            ]
+        }
+    ]
+},
+{
+    "image": "image_061.jpg",
+    "annotations": [
+        {
+            "class": "Garnek ",
+            "bbox": [
+                2,
+                1,
+                464,
+                227
+            ]
+        }
+    ]
+},
+{
+    "image": "image_062.jpg",
+    "annotations": [
+        {
+            "class": "Garnek",
+            "bbox": [
+                0,
+                0,
+                466,
+                310
+            ]
+        }
+    ]
+},
+{
+    "image": "image_063.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                7,
+                239,
+                630,
+                222
+            ]
+        }
+    ]
+},
+{
+    "image": "image_064.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                24,
+                108,
+                591,
+                255
+            ]
+        }
+    ]
+},
+{
+    "image": "image_065.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                62,
+                143,
+                516,
+                215
+            ]
+        }
+    ]
+},
+{
+    "image": "image_066.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                54,
+                267,
+                546,
+                186
+            ]
+        }
+    ]
+},
+{
+    "image": "image_067.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                9,
+                243,
+                603,
+                214
+            ]
+        }
+    ]
+},
+{
+    "image": "image_068.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                11,
+                160,
+                616,
+                261
+            ]
+        }
+    ]
+},
+{
+    "image": "image_069.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                12,
+                124,
+                615,
+                253
+            ]
+        }
+    ]
+},
+{
+    "image": "image_070.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                3,
+                22,
+                255,
+                150
+            ]
+        }
+    ]
+},
+{
+    "image": "image_071.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                34,
+                269,
+                587,
+                165
+            ]
+        }
+    ]
+},
+{
+    "image": "image_072.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                47,
+                279,
+                571,
+                151
+            ]
+        }
+    ]
+},
+{
+    "image": "image_073.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                17,
+                191,
+                605,
+                151
+            ]
+        }
+    ]
+},
+{
+    "image": "image_074.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                27,
+                144,
+                582,
+                214
+            ]
+        }
+    ]
+},
+{
+    "image": "image_075.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                27,
+                152,
+                596,
+                221
+            ]
+        }
+    ]
+},
+{
+    "image": "image_076.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                1,
+                304,
+                998,
+                392
+            ]
+        }
+    ]
+},
+{
+    "image": "image_077.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                50,
+                130,
+                552,
+                247
+            ]
+        }
+    ]
+},
+{
+    "image": "image_078.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                18,
+                249,
+                609,
+                168
+            ]
+        }
+    ]
+},
+{
+    "image": "image_079.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                28,
+                119,
+                748,
+                363
+            ]
+        }
+    ]
+},
+{
+    "image": "image_080.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                11,
+                167,
+                622,
+                282
+            ]
+        }
+    ]
+},
+{
+    "image": "image_081.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                22,
+                100,
+                719,
+                547
+            ]
+        }
+    ]
+},
+{
+    "image": "image_082.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                32,
+                172,
+                575,
+                138
+            ]
+        }
+    ]
+},
+{
+    "image": "image_083.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                102,
+                8,
+                434,
+                714
+            ]
+        }
+    ]
+},
+{
+    "image": "image_084.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                13,
+                56,
+                601,
+                329
+            ]
+        }
+    ]
+},
+{
+    "image": "image_085.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                32,
+                36,
+                312,
+                567
+            ]
+        }
+    ]
+},
+{
+    "image": "image_086.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                113,
+                204,
+                748,
+                322
+            ]
+        }
+    ]
+},
+{
+    "image": "image_087.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                4,
+                16,
+                714,
+                706
+            ]
+        }
+    ]
+},
+{
+    "image": "image_088.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                11,
+                86,
+                277,
+                154
+            ]
+        }
+    ]
+},
+{
+    "image": "image_089.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                24,
+                219,
+                309,
+                166
+            ]
+        }
+    ]
+},
+{
+    "image": "image_090.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                95,
+                86,
+                579,
+                582
+            ]
+        }
+    ]
+},
+{
+    "image": "image_091.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                8,
+                49,
+                287,
+                217
+            ]
+        }
+    ]
+},
+{
+    "image": "image_092.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                32,
+                109,
+                697,
+                475
+            ]
+        }
+    ]
+},
+{
+    "image": "image_093.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                65,
+                175,
+                507,
+                125
+            ]
+        }
+    ]
+},
+{
+    "image": "image_094.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                58,
+                189,
+                522,
+                137
+            ]
+        }
+    ]
+},
+{
+    "image": "image_095.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                4,
+                301,
+                996,
+                395
+            ]
+        }
+    ]
+},
+{
+    "image": "image_096.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                3,
+                368,
+                996,
+                263
+            ]
+        }
+    ]
+},
+{
+    "image": "image_097.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                22,
+                26,
+                556,
+                422
+            ]
+        }
+    ]
+},
+{
+    "image": "image_098.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                54,
+                297,
+                914,
+                455
+            ]
+        }
+    ]
+},
+{
+    "image": "image_099.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                63,
+                285,
+                912,
+                470
+            ]
+        }
+    ]
+},
+{
+    "image": "image_100.jpg",
+    "annotations": [
+        {
+            "class": "Patelnia",
+            "bbox": [
+                0,
+                0,
+                736,
+                617
+            ]
+        }
+    ]
+},
+    {
+        "image": "image_101.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    122,
+                    50,
+                    367,
+                    346
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_102.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    35,
+                    291,
+                    661,
+                    673
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_103.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    84,
+                    352,
+                    451,
+                    431
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_104.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    33,
+                    0,
+                    439,
+                    391
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_105.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    51,
+                    166,
+                    655,
+                    668
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_106.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    19,
+                    0,
+                    382,
+                    386
+                ]
+            },
+            {
+                "class": "Talerz",
+                "bbox": [
+                    212,
+                    243,
+                    511,
+                    493
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_107.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    0,
+                    144,
+                    735,
+                    745
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_108.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    7,
+                    0,
+                    718,
+                    749
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_109.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    69,
+                    71,
+                    619,
+                    605
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_110.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    100,
+                    148,
+                    556,
+                    459
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_111.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    34,
+                    104,
+                    689,
+                    727
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_112.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    65,
+                    152,
+                    561,
+                    576
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_113.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    43,
+                    130,
+                    653,
+                    662
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_114.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    22,
+                    176,
+                    647,
+                    606
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_115.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    108,
+                    299,
+                    511,
+                    512
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_116.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    185,
+                    272,
+                    410,
+                    393
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_117.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    77,
+                    78,
+                    612,
+                    714
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_118.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    116,
+                    299,
+                    536,
+                    576
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_119.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    100,
+                    182,
+                    572,
+                    624
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_120.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    169,
+                    325,
+                    423,
+                    431
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_121.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    39,
+                    211,
+                    637,
+                    687
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_122.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    68,
+                    496,
+                    469,
+                    338
+                ]
+            },
+            {
+                "class": "Kubek",
+                "bbox": [
+                    462,
+                    346,
+                    235,
+                    264
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_123.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    132,
+                    310,
+                    462,
+                    471
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_124.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    85,
+                    297,
+                    565,
+                    637
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_125.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    67,
+                    191,
+                    530,
+                    536
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_126.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    60,
+                    249,
+                    609,
+                    649
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_127.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    22,
+                    72,
+                    557,
+                    480
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_128.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    40,
+                    180,
+                    517,
+                    407
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_129.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    165,
+                    268,
+                    531,
+                    393
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_130.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    53,
+                    202,
+                    535,
+                    421
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_131.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    175,
+                    105,
+                    380,
+                    369
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_132.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    83,
+                    229,
+                    589,
+                    394
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_133.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    107,
+                    131,
+                    517,
+                    555
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_134.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    76,
+                    208,
+                    588,
+                    579
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_135.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    76,
+                    54,
+                    611,
+                    638
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_136.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    36,
+                    46,
+                    672,
+                    665
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_137.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    26,
+                    14,
+                    694,
+                    661
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_138.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    69,
+                    73,
+                    439,
+                    424
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_139.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    172,
+                    197,
+                    414,
+                    556
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_140.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    40,
+                    139,
+                    636,
+                    703
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_141.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    77,
+                    238,
+                    599,
+                    576
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_142.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    93,
+                    211,
+                    643,
+                    749
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_143.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    75,
+                    208,
+                    577,
+                    584
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_144.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    0,
+                    325,
+                    713,
+                    738
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_145.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    48,
+                    292,
+                    638,
+                    675
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_146.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    1,
+                    97,
+                    724,
+                    771
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_147.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    68,
+                    211,
+                    593,
+                    589
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_148.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    62,
+                    161,
+                    228,
+                    267
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_149.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    28,
+                    0,
+                    686,
+                    702
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_150.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    126,
+                    230,
+                    479,
+                    598
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_151.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    95,
+                    123,
+                    600,
+                    689
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_152.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    114,
+                    227,
+                    522,
+                    605
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_153.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    19,
+                    203,
+                    584,
+                    532
+                ]
+            },
+            {
+                "class": "Talerz",
+                "bbox": [
+                    493,
+                    0,
+                    243,
+                    704
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_154.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    53,
+                    189,
+                    570,
+                    364
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_155.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    36,
+                    86,
+                    484,
+                    336
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_156.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    53,
+                    134,
+                    668,
+                    522
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_157.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    109,
+                    131,
+                    567,
+                    503
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_158.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    41,
+                    151,
+                    372,
+                    301
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_159.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    86,
+                    238,
+                    592,
+                    563
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_160.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    79,
+                    177,
+                    618,
+                    626
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_161.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    63,
+                    76,
+                    647,
+                    601
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_162.jpg",
+        "annotations": [
+            {
+                "class": "Talerz",
+                "bbox": [
+                    30,
+                    185,
+                    679,
+                    674
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_163.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    42,
+                    62,
+                    538,
+                    514
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_164.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    49,
+                    114,
+                    625,
+                    614
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_165.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    80,
+                    146,
+                    616,
+                    592
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_166.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    78,
+                    118,
+                    393,
+                    385
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_167.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    29,
+                    271,
+                    551,
+                    537
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_168.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    20,
+                    98,
+                    601,
+                    565
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_169.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    32,
+                    225,
+                    445,
+                    398
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_170.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    98,
+                    134,
+                    545,
+                    386
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_171.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    36,
+                    121,
+                    669,
+                    517
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_172.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    138,
+                    203,
+                    404,
+                    317
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_173.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    80,
+                    418,
+                    528,
+                    438
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_174.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    63,
+                    394,
+                    529,
+                    454
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_175.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    15,
+                    333,
+                    668,
+                    479
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_176.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    123,
+                    247,
+                    498,
+                    434
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_177.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    145,
+                    126,
+                    519,
+                    514
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_178.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    43,
+                    140,
+                    434,
+                    295
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_179.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    26,
+                    163,
+                    521,
+                    326
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_180.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    40,
+                    246,
+                    667,
+                    422
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_181.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    12,
+                    135,
+                    424,
+                    296
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_182.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    38,
+                    116,
+                    644,
+                    427
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_183.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    24,
+                    78,
+                    515,
+                    324
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_184.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    70,
+                    53,
+                    402,
+                    274
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_185.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    20,
+                    212,
+                    603,
+                    416
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_186.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    72,
+                    133,
+                    436,
+                    261
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_187.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    58,
+                    318,
+                    654,
+                    534
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_188.jpg",
+        "annotations": [
+            {
+                "class": "Kubek",
+                "bbox": [
+                    42,
+                    177,
+                    694,
+                    474
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_189.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    15,
+                    340,
+                    405,
+                    267
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_190.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    30,
+                    143,
+                    513,
+                    330
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_191.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    99,
+                    208,
+                    547,
+                    438
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_192.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    91,
+                    261,
+                    599,
+                    365
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_193.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    80,
+                    127,
+                    612,
+                    434
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_194.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    34,
+                    102,
+                    408,
+                    264
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_195.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    7,
+                    177,
+                    724,
+                    369
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_196.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    93,
+                    179,
+                    451,
+                    291
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_197.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    130,
+                    355,
+                    569,
+                    522
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_198.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    114,
+                    265,
+                    524,
+                    639
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_199.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    31,
+                    235,
+                    680,
+                    436
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_200.jpg",
+        "annotations": [
+            {
+                "class": "Miska",
+                "bbox": [
+                    64,
+                    189,
+                    560,
+                    489
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_201.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    192,
+                    57,
+                    575,
+                    395
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_202.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    119,
+                    32,
+                    737,
+                    528
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_203.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    0,
+                    262,
+                    1206,
+                    354
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_204.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    78,
+                    431,
+                    1141,
+                    175
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_205.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    762,
+                    85,
+                    146,
+                    743
+                ]
+            },
+            {
+                "class": "noz",
+                "bbox": [
+                    914,
+                    58,
+                    172,
+                    775
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_206.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    148,
+                    107,
+                    190,
+                    1163
+                ]
+            },
+            {
+                "class": "noz",
+                "bbox": [
+                    410,
+                    37,
+                    154,
+                    1243
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_207.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    98,
+                    86,
+                    498,
+                    182
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_208.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    318,
+                    324,
+                    962,
+                    497
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_209.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    0,
+                    53,
+                    1091,
+                    860
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_210.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    0,
+                    399,
+                    875,
+                    333
+                ]
+            },
+            {
+                "class": "widelec",
+                "bbox": [
+                    860,
+                    359,
+                    296,
+                    195
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_211.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    85,
+                    213,
+                    112,
+                    112
+                ]
+            },
+            {
+                "class": "widelec",
+                "bbox": [
+                    445,
+                    221,
+                    118,
+                    110
+                ]
+            },
+            {
+                "class": "lyzka",
+                "bbox": [
+                    233,
+                    53,
+                    173,
+                    191
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_212.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    94,
+                    299,
+                    165,
+                    96
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_213.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    0,
+                    281,
+                    325,
+                    89
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_214.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    55,
+                    123,
+                    352,
+                    286
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_215.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    527,
+                    167,
+                    77,
+                    532
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_216.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    193,
+                    71,
+                    70,
+                    296
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_217.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    211,
+                    85,
+                    48,
+                    281
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_218.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    68,
+                    101,
+                    325,
+                    338
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_219.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    35,
+                    60,
+                    400,
+                    534
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_220.jpg",
+        "annotations": [
+            {
+                "class": "trzepaczka",
+                "bbox": [
+                    171,
+                    62,
+                    126,
+                    349
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_221.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    6,
+                    41,
+                    370,
+                    376
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_222.jpg",
+        "annotations": [
+            {
+                "class": "paleczki",
+                "bbox": [
+                    91,
+                    27,
+                    574,
+                    587
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_223.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    314,
+                    51,
+                    103,
+                    386
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_224.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    270,
+                    249,
+                    184,
+                    523
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_225.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    67,
+                    12,
+                    90,
+                    430
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_226.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    203,
+                    77,
+                    330,
+                    1372
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_227.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    79,
+                    90,
+                    541,
+                    531
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_228.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    164,
+                    0,
+                    476,
+                    257
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_229.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    54,
+                    127,
+                    353,
+                    289
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_230.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    57,
+                    158,
+                    461,
+                    224
+                ]
+            },
+            {
+                "class": "noz",
+                "bbox": [
+                    85,
+                    80,
+                    500,
+                    237
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_231.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    55,
+                    40,
+                    477,
+                    534
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_232.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    40,
+                    54,
+                    484,
+                    469
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_233.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    149,
+                    100,
+                    360,
+                    272
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_234.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    72,
+                    98,
+                    433,
+                    288
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_235.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    188,
+                    68,
+                    134,
+                    750
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_236.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    378,
+                    102,
+                    214,
+                    957
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_237.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    273,
+                    91,
+                    207,
+                    1076
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_238.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    166,
+                    31,
+                    321,
+                    818
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_239.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    27,
+                    39,
+                    425,
+                    444
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_240.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    70,
+                    114,
+                    116,
+                    362
+                ]
+            },
+            {
+                "class": "lyzka",
+                "bbox": [
+                    231,
+                    89,
+                    78,
+                    396
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_241.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    38,
+                    169,
+                    455,
+                    542
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_242.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    255,
+                    8,
+                    215,
+                    1046
+                ]
+            },
+            {
+                "class": "widelec",
+                "bbox": [
+                    39,
+                    8,
+                    208,
+                    1040
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_243.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    54,
+                    138,
+                    329,
+                    109
+                ]
+            },
+            {
+                "class": "lyzka",
+                "bbox": [
+                    43,
+                    57,
+                    322,
+                    127
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_244.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    90,
+                    92,
+                    585,
+                    811
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_245.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    97,
+                    43,
+                    576,
+                    857
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_246.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    43,
+                    65,
+                    583,
+                    499
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_247.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    48,
+                    41,
+                    629,
+                    589
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_248.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    43,
+                    6,
+                    629,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_249.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    65,
+                    11,
+                    271,
+                    380
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_250.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    19,
+                    12,
+                    706,
+                    718
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_251.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    64,
+                    59,
+                    621,
+                    396
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_252.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    26,
+                    23,
+                    654,
+                    832
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_253.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    280,
+                    74,
+                    205,
+                    651
+                ]
+            },
+            {
+                "class": "widelec",
+                "bbox": [
+                    104,
+                    72,
+                    178,
+                    669
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_254.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    80,
+                    26,
+                    356,
+                    480
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_255.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    15,
+                    26,
+                    449,
+                    258
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_256.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    112,
+                    64,
+                    218,
+                    343
+                ]
+            },
+            {
+                "class": "lyzka",
+                "bbox": [
+                    237,
+                    93,
+                    307,
+                    260
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_257.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    21,
+                    88,
+                    562,
+                    334
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_258.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    31,
+                    19,
+                    442,
+                    515
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_259.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    84,
+                    19,
+                    387,
+                    623
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_260.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    101,
+                    105,
+                    392,
+                    439
+                ]
+            },
+            {
+                "class": "noz",
+                "bbox": [
+                    53,
+                    27,
+                    349,
+                    478
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_261.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    262,
+                    112,
+                    120,
+                    807
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_262.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    239,
+                    38,
+                    218,
+                    1399
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_263.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    26,
+                    93,
+                    351,
+                    206
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_264.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    32,
+                    18,
+                    349,
+                    287
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_265.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    256,
+                    51,
+                    198,
+                    894
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_266.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    25,
+                    94,
+                    348,
+                    147
+                ]
+            },
+            {
+                "class": "lyzka",
+                "bbox": [
+                    30,
+                    14,
+                    347,
+                    158
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_267.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    91,
+                    85,
+                    441,
+                    763
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_268.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    18,
+                    61,
+                    701,
+                    459
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_269.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    20,
+                    27,
+                    465,
+                    531
+                ]
+            },
+            {
+                "class": "lyzka",
+                "bbox": [
+                    105,
+                    104,
+                    490,
+                    542
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_270.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    53,
+                    13,
+                    402,
+                    613
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_271.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    52,
+                    56,
+                    605,
+                    886
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_272.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    229,
+                    44,
+                    142,
+                    688
+                ]
+            },
+            {
+                "class": "lyzka",
+                "bbox": [
+                    369,
+                    4,
+                    147,
+                    715
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_273.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    214,
+                    52,
+                    62,
+                    501
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_274.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    14,
+                    23,
+                    440,
+                    652
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_275.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    265,
+                    0,
+                    78,
+                    600
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_276.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    59,
+                    199,
+                    516,
+                    262
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_277.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    92,
+                    69,
+                    463,
+                    507
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_278.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    62,
+                    80,
+                    519,
+                    503
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_279.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    52,
+                    137,
+                    529,
+                    401
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_280.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    12,
+                    29,
+                    609,
+                    384
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_281.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    146,
+                    0,
+                    309,
+                    563
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_282.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    55,
+                    14,
+                    646,
+                    761
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_283.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    53,
+                    118,
+                    561,
+                    442
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_284.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    16,
+                    0,
+                    699,
+                    723
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_285.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    63,
+                    56,
+                    613,
+                    632
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_286.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    15,
+                    243,
+                    568,
+                    115
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_287.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    0,
+                    0,
+                    497,
+                    303
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_288.jpg",
+        "annotations": [
+            {
+                "class": "noz",
+                "bbox": [
+                    24,
+                    258,
+                    645,
+                    129
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_289.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    60,
+                    96,
+                    649,
+                    872
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_290.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    156,
+                    25,
+                    424,
+                    678
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_291.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    74,
+                    46,
+                    90,
+                    402
+                ]
+            },
+            {
+                "class": "lyzka",
+                "bbox": [
+                    168,
+                    55,
+                    92,
+                    394
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_292.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    100,
+                    75,
+                    576,
+                    592
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_293.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    116,
+                    92,
+                    505,
+                    536
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_294.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    196,
+                    83,
+                    142,
+                    847
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_295.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    45,
+                    195,
+                    626,
+                    168
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_296.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    28,
+                    40,
+                    333,
+                    209
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_297.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    319,
+                    127,
+                    107,
+                    493
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_298.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    335,
+                    42,
+                    88,
+                    854
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_299.jpg",
+        "annotations": [
+            {
+                "class": "lyzka",
+                "bbox": [
+                    329,
+                    120,
+                    202,
+                    740
+                ]
+            },
+            {
+                "class": "widelec",
+                "bbox": [
+                    147,
+                    115,
+                    195,
+                    740
+                ]
+            }
+        ]
+    },
+    {
+        "image": "image_300.jpg",
+        "annotations": [
+            {
+                "class": "widelec",
+                "bbox": [
+                    225,
+                    60,
+                    138,
+                    624
+                ]
+            },
+            {
+                "class": "lyzka",
+                "bbox": [
+                    382,
+                    73,
+                    134,
+                    601
+                ]
+            }
+        ]
+    }
+]
