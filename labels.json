@@ -1,0 +1,3756 @@
+[
+    {
+        "image": "image_001.jpg",
+        "objects": [
+            {
+                "x1": 413,
+                "y1": 61,
+                "x2": 1115,
+                "y2": 698,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_002.jpg",
+        "objects": [
+            {
+                "x1": 269,
+                "y1": 59,
+                "x2": 1274,
+                "y2": 704,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_003.jpg",
+        "objects": [
+            {
+                "x1": 462,
+                "y1": 156,
+                "x2": 1073,
+                "y2": 605,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_004.jpg",
+        "objects": [
+            {
+                "x1": 479,
+                "y1": 201,
+                "x2": 1049,
+                "y2": 555,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_005.jpg",
+        "objects": [
+            {
+                "x1": 387,
+                "y1": 95,
+                "x2": 1146,
+                "y2": 665,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_006.jpg",
+        "objects": [
+            {
+                "x1": 404,
+                "y1": 128,
+                "x2": 1121,
+                "y2": 602,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_007.jpg",
+        "objects": [
+            {
+                "x1": 419,
+                "y1": 137,
+                "x2": 1130,
+                "y2": 613,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_008.jpg",
+        "objects": [
+            {
+                "x1": 356,
+                "y1": 2,
+                "x2": 1182,
+                "y2": 756,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_009.jpg",
+        "objects": [
+            {
+                "x1": 499,
+                "y1": 179,
+                "x2": 1019,
+                "y2": 564,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_010.jpg",
+        "objects": [
+            {
+                "x1": 456,
+                "y1": 157,
+                "x2": 1081,
+                "y2": 689,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_011.jpg",
+        "objects": [
+            {
+                "x1": 554,
+                "y1": 251,
+                "x2": 976,
+                "y2": 500,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_012.jpg",
+        "objects": [
+            {
+                "x1": 311,
+                "y1": 209,
+                "x2": 1197,
+                "y2": 678,
+                "class": "garnek"
+            },
+            {
+                "x1": 1453,
+                "y1": 758,
+                "x2": 1453,
+                "y2": 758,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_013.jpg",
+        "objects": [
+            {
+                "x1": 325,
+                "y1": 107,
+                "x2": 1210,
+                "y2": 655,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_014.jpg",
+        "objects": [
+            {
+                "x1": 675,
+                "y1": 332,
+                "x2": 871,
+                "y2": 473,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_015.jpg",
+        "objects": [
+            {
+                "x1": 448,
+                "y1": 114,
+                "x2": 1088,
+                "y2": 648,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_016.jpg",
+        "objects": [
+            {
+                "x1": 399,
+                "y1": 99,
+                "x2": 1121,
+                "y2": 622,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_017.jpg",
+        "objects": [
+            {
+                "x1": 259,
+                "y1": 36,
+                "x2": 1269,
+                "y2": 730,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_018.jpg",
+        "objects": [
+            {
+                "x1": 353,
+                "y1": 229,
+                "x2": 1186,
+                "y2": 637,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_019.jpg",
+        "objects": [
+            {
+                "x1": 408,
+                "y1": 122,
+                "x2": 1130,
+                "y2": 630,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_020.jpg",
+        "objects": [
+            {
+                "x1": 418,
+                "y1": 139,
+                "x2": 1105,
+                "y2": 618,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_021.jpg",
+        "objects": [
+            {
+                "x1": 535,
+                "y1": 181,
+                "x2": 994,
+                "y2": 578,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_022.jpg",
+        "objects": [
+            {
+                "x1": 537,
+                "y1": 212,
+                "x2": 1000,
+                "y2": 530,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_023.jpg",
+        "objects": [
+            {
+                "x1": 538,
+                "y1": 197,
+                "x2": 998,
+                "y2": 562,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_024.jpg",
+        "objects": [
+            {
+                "x1": 416,
+                "y1": 153,
+                "x2": 1122,
+                "y2": 601,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_025.jpg",
+        "objects": [
+            {
+                "x1": 536,
+                "y1": 205,
+                "x2": 997,
+                "y2": 516,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_026.jpg",
+        "objects": [
+            {
+                "x1": 539,
+                "y1": 198,
+                "x2": 999,
+                "y2": 555,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_027.jpg",
+        "objects": [
+            {
+                "x1": 537,
+                "y1": 183,
+                "x2": 997,
+                "y2": 541,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_028.jpg",
+        "objects": [
+            {
+                "x1": 537,
+                "y1": 217,
+                "x2": 998,
+                "y2": 532,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_029.jpg",
+        "objects": [
+            {
+                "x1": 579,
+                "y1": 206,
+                "x2": 943,
+                "y2": 445,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_030.jpg",
+        "objects": [
+            {
+                "x1": 535,
+                "y1": 199,
+                "x2": 999,
+                "y2": 513,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_031.jpg",
+        "objects": [
+            {
+                "x1": 538,
+                "y1": 198,
+                "x2": 997,
+                "y2": 527,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_032.jpg",
+        "objects": [
+            {
+                "x1": 424,
+                "y1": 3,
+                "x2": 1107,
+                "y2": 683,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_033.jpg",
+        "objects": [
+            {
+                "x1": 536,
+                "y1": 177,
+                "x2": 999,
+                "y2": 581,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_034.jpg",
+        "objects": [
+            {
+                "x1": 535,
+                "y1": 229,
+                "x2": 1000,
+                "y2": 527,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_035.jpg",
+        "objects": [
+            {
+                "x1": 467,
+                "y1": 166,
+                "x2": 1065,
+                "y2": 608,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_036.jpg",
+        "objects": [
+            {
+                "x1": 536,
+                "y1": 227,
+                "x2": 996,
+                "y2": 531,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_037.jpg",
+        "objects": [
+            {
+                "x1": 535,
+                "y1": 212,
+                "x2": 999,
+                "y2": 544,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_038.jpg",
+        "objects": [
+            {
+                "x1": 450,
+                "y1": 162,
+                "x2": 1086,
+                "y2": 605,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_039.jpg",
+        "objects": [
+            {
+                "x1": 535,
+                "y1": 219,
+                "x2": 996,
+                "y2": 541,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_040.jpg",
+        "objects": [
+            {
+                "x1": 614,
+                "y1": 245,
+                "x2": 921,
+                "y2": 511,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_041.jpg",
+        "objects": [
+            {
+                "x1": 421,
+                "y1": 60,
+                "x2": 1112,
+                "y2": 695,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_042.jpg",
+        "objects": [
+            {
+                "x1": 537,
+                "y1": 161,
+                "x2": 998,
+                "y2": 598,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_043.jpg",
+        "objects": [
+            {
+                "x1": 617,
+                "y1": 278,
+                "x2": 918,
+                "y2": 482,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_044.jpg",
+        "objects": [
+            {
+                "x1": 534,
+                "y1": 239,
+                "x2": 999,
+                "y2": 518,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_045.jpg",
+        "objects": [
+            {
+                "x1": 610,
+                "y1": 211,
+                "x2": 924,
+                "y2": 479,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_046.jpg",
+        "objects": [
+            {
+                "x1": 496,
+                "y1": 231,
+                "x2": 1039,
+                "y2": 531,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_047.jpg",
+        "objects": [
+            {
+                "x1": 424,
+                "y1": 195,
+                "x2": 1111,
+                "y2": 562,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_048.jpg",
+        "objects": [
+            {
+                "x1": 539,
+                "y1": 271,
+                "x2": 971,
+                "y2": 574,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_049.jpg",
+        "objects": [
+            {
+                "x1": 535,
+                "y1": 219,
+                "x2": 999,
+                "y2": 535,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_050.jpg",
+        "objects": [
+            {
+                "x1": 546,
+                "y1": 206,
+                "x2": 988,
+                "y2": 552,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_051.jpg",
+        "objects": [
+            {
+                "x1": 389,
+                "y1": 168,
+                "x2": 1145,
+                "y2": 743,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_052.jpg",
+        "objects": [
+            {
+                "x1": 539,
+                "y1": 188,
+                "x2": 997,
+                "y2": 564,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_053.jpg",
+        "objects": [
+            {
+                "x1": 538,
+                "y1": 224,
+                "x2": 994,
+                "y2": 537,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_054.jpg",
+        "objects": [
+            {
+                "x1": 541,
+                "y1": 177,
+                "x2": 995,
+                "y2": 468,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_055.jpg",
+        "objects": [
+            {
+                "x1": 521,
+                "y1": 222,
+                "x2": 1023,
+                "y2": 545,
+                "class": "garnek"
+            },
+            {
+                "x1": 1459,
+                "y1": 760,
+                "x2": 1459,
+                "y2": 760,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_056.jpg",
+        "objects": [
+            {
+                "x1": 577,
+                "y1": 216,
+                "x2": 956,
+                "y2": 541,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_057.jpg",
+        "objects": [
+            {
+                "x1": 524,
+                "y1": 192,
+                "x2": 1001,
+                "y2": 569,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_058.jpg",
+        "objects": [
+            {
+                "x1": 526,
+                "y1": 178,
+                "x2": 997,
+                "y2": 579,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_059.jpg",
+        "objects": [
+            {
+                "x1": 448,
+                "y1": 157,
+                "x2": 1086,
+                "y2": 604,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_060.jpg",
+        "objects": [
+            {
+                "x1": 539,
+                "y1": 278,
+                "x2": 998,
+                "y2": 479,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_061.jpg",
+        "objects": [
+            {
+                "x1": 537,
+                "y1": 266,
+                "x2": 999,
+                "y2": 489,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_062.jpg",
+        "objects": [
+            {
+                "x1": 537,
+                "y1": 228,
+                "x2": 994,
+                "y2": 531,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_063.jpg",
+        "objects": [
+            {
+                "x1": 458,
+                "y1": 383,
+                "x2": 1085,
+                "y2": 602,
+                "class": "garnek"
+            }
+        ]
+    },
+    {
+        "image": "image_064.jpg",
+        "objects": [
+            {
+                "x1": 1061,
+                "y1": 246,
+                "x2": 472,
+                "y2": 502,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_065.jpg",
+        "objects": [
+            {
+                "x1": 1022,
+                "y1": 288,
+                "x2": 511,
+                "y2": 496,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_066.jpg",
+        "objects": [
+            {
+                "x1": 1045,
+                "y1": 406,
+                "x2": 501,
+                "y2": 592,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_067.jpg",
+        "objects": [
+            {
+                "x1": 1057,
+                "y1": 384,
+                "x2": 457,
+                "y2": 597,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_068.jpg",
+        "objects": [
+            {
+                "x1": 1072,
+                "y1": 298,
+                "x2": 456,
+                "y2": 560,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_069.jpg",
+        "objects": [
+            {
+                "x1": 465,
+                "y1": 269,
+                "x2": 1072,
+                "y2": 514,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_070.jpg",
+        "objects": [
+            {
+                "x1": 893,
+                "y1": 305,
+                "x2": 640,
+                "y2": 453,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_071.jpg",
+        "objects": [
+            {
+                "x1": 1068,
+                "y1": 411,
+                "x2": 481,
+                "y2": 573,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_072.jpg",
+        "objects": [
+            {
+                "x1": 1062,
+                "y1": 424,
+                "x2": 493,
+                "y2": 566,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_073.jpg",
+        "objects": [
+            {
+                "x1": 1066,
+                "y1": 327,
+                "x2": 463,
+                "y2": 483,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_074.jpg",
+        "objects": [
+            {
+                "x1": 1051,
+                "y1": 288,
+                "x2": 477,
+                "y2": 498,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_075.jpg",
+        "objects": [
+            {
+                "x1": 1069,
+                "y1": 287,
+                "x2": 476,
+                "y2": 512,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_076.jpg",
+        "objects": [
+            {
+                "x1": 1147,
+                "y1": 233,
+                "x2": 388,
+                "y2": 527,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_077.jpg",
+        "objects": [
+            {
+                "x1": 1047,
+                "y1": 268,
+                "x2": 501,
+                "y2": 516,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_078.jpg",
+        "objects": [
+            {
+                "x1": 1072,
+                "y1": 390,
+                "x2": 465,
+                "y2": 554,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_079.jpg",
+        "objects": [
+            {
+                "x1": 1142,
+                "y1": 206,
+                "x2": 395,
+                "y2": 565,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_080.jpg",
+        "objects": [
+            {
+                "x1": 1078,
+                "y1": 306,
+                "x2": 458,
+                "y2": 586,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_081.jpg",
+        "objects": [
+            {
+                "x1": 1132,
+                "y1": 104,
+                "x2": 416,
+                "y2": 649,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_082.jpg",
+        "objects": [
+            {
+                "x1": 483,
+                "y1": 317,
+                "x2": 1053,
+                "y2": 450,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_083.jpg",
+        "objects": [
+            {
+                "x1": 528,
+                "y1": 732,
+                "x2": 955,
+                "y2": 19,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_084.jpg",
+        "objects": [
+            {
+                "x1": 1062,
+                "y1": 194,
+                "x2": 460,
+                "y2": 524,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_085.jpg",
+        "objects": [
+            {
+                "x1": 757,
+                "y1": 75,
+                "x2": 1112,
+                "y2": 680,
+                "class": "patelnia"
+            },
+            {
+                "x1": 439,
+                "y1": 109,
+                "x2": 747,
+                "y2": 676,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_086.jpg",
+        "objects": [
+            {
+                "x1": 1160,
+                "y1": 235,
+                "x2": 420,
+                "y2": 550,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_087.jpg",
+        "objects": [
+            {
+                "x1": 1118,
+                "y1": 30,
+                "x2": 407,
+                "y2": 734,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_088.jpg",
+        "objects": [
+            {
+                "x1": 907,
+                "y1": 316,
+                "x2": 630,
+                "y2": 468,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_089.jpg",
+        "objects": [
+            {
+                "x1": 616,
+                "y1": 397,
+                "x2": 925,
+                "y2": 562,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_090.jpg",
+        "objects": [
+            {
+                "x1": 1077,
+                "y1": 96,
+                "x2": 495,
+                "y2": 679,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_091.jpg",
+        "objects": [
+            {
+                "x1": 622,
+                "y1": 257,
+                "x2": 909,
+                "y2": 472,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_092.jpg",
+        "objects": [
+            {
+                "x1": 1127,
+                "y1": 120,
+                "x2": 432,
+                "y2": 596,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_093.jpg",
+        "objects": [
+            {
+                "x1": 1021,
+                "y1": 315,
+                "x2": 515,
+                "y2": 439,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_094.jpg",
+        "objects": [
+            {
+                "x1": 506,
+                "y1": 332,
+                "x2": 1029,
+                "y2": 464,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_095.jpg",
+        "objects": [
+            {
+                "x1": 1146,
+                "y1": 229,
+                "x2": 388,
+                "y2": 530,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_096.jpg",
+        "objects": [
+            {
+                "x1": 389,
+                "y1": 282,
+                "x2": 1146,
+                "y2": 478,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_097.jpg",
+        "objects": [
+            {
+                "x1": 1045,
+                "y1": 167,
+                "x2": 490,
+                "y2": 589,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_098.jpg",
+        "objects": [
+            {
+                "x1": 1110,
+                "y1": 218,
+                "x2": 428,
+                "y2": 557,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_099.jpg",
+        "objects": [
+            {
+                "x1": 1108,
+                "y1": 209,
+                "x2": 432,
+                "y2": 563,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_100.jpg",
+        "objects": [
+            {
+                "x1": 1132,
+                "y1": 72,
+                "x2": 399,
+                "y2": 686,
+                "class": "patelnia"
+            }
+        ]
+    },
+    {
+        "image": "image_101.jpg",
+        "objects": [
+            {
+                "x1": 609,
+                "y1": 247,
+                "x2": 966,
+                "y2": 542,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_102.jpg",
+        "objects": [
+            {
+                "x1": 1015,
+                "y1": 236,
+                "x2": 528,
+                "y2": 731,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_103.jpg",
+        "objects": [
+            {
+                "x1": 886,
+                "y1": 298,
+                "x2": 560,
+                "y2": 584,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_104.jpg",
+        "objects": [
+            {
+                "x1": 938,
+                "y1": 229,
+                "x2": 536,
+                "y2": 541,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_105.jpg",
+        "objects": [
+            {
+                "x1": 526,
+                "y1": 174,
+                "x2": 1018,
+                "y2": 537,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_106.jpg",
+        "objects": [
+            {
+                "x1": 1098,
+                "y1": 274,
+                "x2": 627,
+                "y2": 743,
+                "class": "talerz"
+            },
+            {
+                "x1": 432,
+                "y1": 71,
+                "x2": 750,
+                "y2": 333,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_107.jpg",
+        "objects": [
+            {
+                "x1": 481,
+                "y1": 157,
+                "x2": 1050,
+                "y2": 647,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_108.jpg",
+        "objects": [
+            {
+                "x1": 401,
+                "y1": 21,
+                "x2": 1128,
+                "y2": 742,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_109.jpg",
+        "objects": [
+            {
+                "x1": 484,
+                "y1": 94,
+                "x2": 1080,
+                "y2": 681,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_110.jpg",
+        "objects": [
+            {
+                "x1": 540,
+                "y1": 175,
+                "x2": 997,
+                "y2": 529,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_111.jpg",
+        "objects": [
+            {
+                "x1": 759,
+                "y1": 370,
+                "x2": 1057,
+                "y2": 677,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_112.jpg",
+        "objects": [
+            {
+                "x1": 476,
+                "y1": 189,
+                "x2": 739,
+                "y2": 453,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_113.jpg",
+        "objects": [
+            {
+                "x1": 993,
+                "y1": 128,
+                "x2": 541,
+                "y2": 596,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_114.jpg",
+        "objects": [
+            {
+                "x1": 984,
+                "y1": 600,
+                "x2": 488,
+                "y2": 177,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_115.jpg",
+        "objects": [
+            {
+                "x1": 903,
+                "y1": 615,
+                "x2": 569,
+                "y2": 301,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_116.jpg",
+        "objects": [
+            {
+                "x1": 616,
+                "y1": 285,
+                "x2": 967,
+                "y2": 582,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_117.jpg",
+        "objects": [
+            {
+                "x1": 536,
+                "y1": 109,
+                "x2": 1016,
+                "y2": 611,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_118.jpg",
+        "objects": [
+            {
+                "x1": 575,
+                "y1": 285,
+                "x2": 962,
+                "y2": 661,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_119.jpg",
+        "objects": [
+            {
+                "x1": 560,
+                "y1": 183,
+                "x2": 1015,
+                "y2": 600,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_120.jpg",
+        "objects": [
+            {
+                "x1": 660,
+                "y1": 334,
+                "x2": 953,
+                "y2": 598,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_121.jpg",
+        "objects": [
+            {
+                "x1": 813,
+                "y1": 359,
+                "x2": 992,
+                "y2": 524,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_122.jpg",
+        "objects": [
+            {
+                "x1": 544,
+                "y1": 406,
+                "x2": 876,
+                "y2": 634,
+                "class": "talerz"
+            },
+            {
+                "x1": 848,
+                "y1": 285,
+                "x2": 1010,
+                "y2": 426,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_123.jpg",
+        "objects": [
+            {
+                "x1": 587,
+                "y1": 268,
+                "x2": 930,
+                "y2": 586,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_124.jpg",
+        "objects": [
+            {
+                "x1": 555,
+                "y1": 287,
+                "x2": 981,
+                "y2": 694,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_125.jpg",
+        "objects": [
+            {
+                "x1": 544,
+                "y1": 169,
+                "x2": 968,
+                "y2": 587,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_126.jpg",
+        "objects": [
+            {
+                "x1": 561,
+                "y1": 188,
+                "x2": 969,
+                "y2": 589,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_127.jpg",
+        "objects": [
+            {
+                "x1": 501,
+                "y1": 166,
+                "x2": 1036,
+                "y2": 627,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_128.jpg",
+        "objects": [
+            {
+                "x1": 540,
+                "y1": 269,
+                "x2": 1036,
+                "y2": 650,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_129.jpg",
+        "objects": [
+            {
+                "x1": 600,
+                "y1": 290,
+                "x2": 1078,
+                "y2": 647,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_130.jpg",
+        "objects": [
+            {
+                "x1": 953,
+                "y1": 221,
+                "x2": 516,
+                "y2": 556,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_131.jpg",
+        "objects": [
+            {
+                "x1": 576,
+                "y1": 213,
+                "x2": 938,
+                "y2": 553,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_132.jpg",
+        "objects": [
+            {
+                "x1": 480,
+                "y1": 250,
+                "x2": 1056,
+                "y2": 622,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_133.jpg",
+        "objects": [
+            {
+                "x1": 495,
+                "y1": 156,
+                "x2": 999,
+                "y2": 670,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_134.jpg",
+        "objects": [
+            {
+                "x1": 544,
+                "y1": 222,
+                "x2": 993,
+                "y2": 585,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_135.jpg",
+        "objects": [
+            {
+                "x1": 496,
+                "y1": 87,
+                "x2": 1068,
+                "y2": 676,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_136.jpg",
+        "objects": [
+            {
+                "x1": 440,
+                "y1": 86,
+                "x2": 1085,
+                "y2": 702,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_137.jpg",
+        "objects": [
+            {
+                "x1": 429,
+                "y1": 54,
+                "x2": 1113,
+                "y2": 698,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_138.jpg",
+        "objects": [
+            {
+                "x1": 564,
+                "y1": 183,
+                "x2": 972,
+                "y2": 584,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_139.jpg",
+        "objects": [
+            {
+                "x1": 628,
+                "y1": 199,
+                "x2": 924,
+                "y2": 552,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_140.jpg",
+        "objects": [
+            {
+                "x1": 542,
+                "y1": 148,
+                "x2": 987,
+                "y2": 598,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_141.jpg",
+        "objects": [
+            {
+                "x1": 550,
+                "y1": 204,
+                "x2": 981,
+                "y2": 621,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_142.jpg",
+        "objects": [
+            {
+                "x1": 613,
+                "y1": 138,
+                "x2": 984,
+                "y2": 504,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_143.jpg",
+        "objects": [
+            {
+                "x1": 533,
+                "y1": 190,
+                "x2": 978,
+                "y2": 560,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_144.jpg",
+        "objects": [
+            {
+                "x1": 578,
+                "y1": 215,
+                "x2": 953,
+                "y2": 590,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_145.jpg",
+        "objects": [
+            {
+                "x1": 585,
+                "y1": 181,
+                "x2": 941,
+                "y2": 531,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_146.jpg",
+        "objects": [
+            {
+                "x1": 471,
+                "y1": 102,
+                "x2": 1066,
+                "y2": 696,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_147.jpg",
+        "objects": [
+            {
+                "x1": 561,
+                "y1": 175,
+                "x2": 967,
+                "y2": 590,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_148.jpg",
+        "objects": [
+            {
+                "x1": 659,
+                "y1": 297,
+                "x2": 871,
+                "y2": 514,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_149.jpg",
+        "objects": [
+            {
+                "x1": 441,
+                "y1": 118,
+                "x2": 1092,
+                "y2": 676,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_150.jpg",
+        "objects": [
+            {
+                "x1": 600,
+                "y1": 251,
+                "x2": 943,
+                "y2": 598,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_151.jpg",
+        "objects": [
+            {
+                "x1": 555,
+                "y1": 146,
+                "x2": 1002,
+                "y2": 600,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_152.jpg",
+        "objects": [
+            {
+                "x1": 573,
+                "y1": 218,
+                "x2": 962,
+                "y2": 609,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_153.jpg",
+        "objects": [
+            {
+                "x1": 502,
+                "y1": 191,
+                "x2": 961,
+                "y2": 572,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_154.jpg",
+        "objects": [
+            {
+                "x1": 489,
+                "y1": 237,
+                "x2": 999,
+                "y2": 538,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_155.jpg",
+        "objects": [
+            {
+                "x1": 974,
+                "y1": 231,
+                "x2": 528,
+                "y2": 549,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_156.jpg",
+        "objects": [
+            {
+                "x1": 467,
+                "y1": 194,
+                "x2": 1119,
+                "y2": 670,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_157.jpg",
+        "objects": [
+            {
+                "x1": 529,
+                "y1": 157,
+                "x2": 1053,
+                "y2": 614,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_158.jpg",
+        "objects": [
+            {
+                "x1": 904,
+                "y1": 249,
+                "x2": 567,
+                "y2": 520,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_159.jpg",
+        "objects": [
+            {
+                "x1": 559,
+                "y1": 214,
+                "x2": 1007,
+                "y2": 590,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_160.jpg",
+        "objects": [
+            {
+                "x1": 545,
+                "y1": 154,
+                "x2": 1005,
+                "y2": 608,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_161.jpg",
+        "objects": [
+            {
+                "x1": 478,
+                "y1": 124,
+                "x2": 1093,
+                "y2": 698,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_162.jpg",
+        "objects": [
+            {
+                "x1": 519,
+                "y1": 149,
+                "x2": 1009,
+                "y2": 636,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_163.jpg",
+        "objects": [
+            {
+                "x1": 511,
+                "y1": 148,
+                "x2": 1025,
+                "y2": 640,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_164.jpg",
+        "objects": [
+            {
+                "x1": 541,
+                "y1": 114,
+                "x2": 986,
+                "y2": 550,
+                "class": "talerz"
+            }
+        ]
+    },
+    {
+        "image": "image_165.jpg",
+        "objects": [
+            {
+                "x1": 544,
+                "y1": 260,
+                "x2": 871,
+                "y2": 598,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_166.jpg",
+        "objects": [
+            {
+                "x1": 948,
+                "y1": 225,
+                "x2": 577,
+                "y2": 586,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_167.jpg",
+        "objects": [
+            {
+                "x1": 926,
+                "y1": 234,
+                "x2": 498,
+                "y2": 593,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_168.jpg",
+        "objects": [
+            {
+                "x1": 1014,
+                "y1": 130,
+                "x2": 451,
+                "y2": 657,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_169.jpg",
+        "objects": [
+            {
+                "x1": 917,
+                "y1": 250,
+                "x2": 508,
+                "y2": 580,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_170.jpg",
+        "objects": [
+            {
+                "x1": 553,
+                "y1": 217,
+                "x2": 1021,
+                "y2": 553,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_171.jpg",
+        "objects": [
+            {
+                "x1": 517,
+                "y1": 158,
+                "x2": 1077,
+                "y2": 496,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_172.jpg",
+        "objects": [
+            {
+                "x1": 641,
+                "y1": 336,
+                "x2": 995,
+                "y2": 592,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_173.jpg",
+        "objects": [
+            {
+                "x1": 550,
+                "y1": 345,
+                "x2": 938,
+                "y2": 642,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_174.jpg",
+        "objects": [
+            {
+                "x1": 550,
+                "y1": 324,
+                "x2": 927,
+                "y2": 621,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_175.jpg",
+        "objects": [
+            {
+                "x1": 489,
+                "y1": 261,
+                "x2": 978,
+                "y2": 584,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_176.jpg",
+        "objects": [
+            {
+                "x1": 666,
+                "y1": 295,
+                "x2": 941,
+                "y2": 493,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_177.jpg",
+        "objects": [
+            {
+                "x1": 583,
+                "y1": 373,
+                "x2": 950,
+                "y2": 638,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_178.jpg",
+        "objects": [
+            {
+                "x1": 564,
+                "y1": 353,
+                "x2": 913,
+                "y2": 537,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_179.jpg",
+        "objects": [
+            {
+                "x1": 511,
+                "y1": 275,
+                "x2": 1017,
+                "y2": 573,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_180.jpg",
+        "objects": [
+            {
+                "x1": 451,
+                "y1": 290,
+                "x2": 1091,
+                "y2": 677,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_181.jpg",
+        "objects": [
+            {
+                "x1": 567,
+                "y1": 320,
+                "x2": 972,
+                "y2": 581,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_182.jpg",
+        "objects": [
+            {
+                "x1": 472,
+                "y1": 204,
+                "x2": 1046,
+                "y2": 612,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_183.jpg",
+        "objects": [
+            {
+                "x1": 516,
+                "y1": 243,
+                "x2": 1015,
+                "y2": 537,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_184.jpg",
+        "objects": [
+            {
+                "x1": 581,
+                "y1": 267,
+                "x2": 972,
+                "y2": 521,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_185.jpg",
+        "objects": [
+            {
+                "x1": 432,
+                "y1": 270,
+                "x2": 900,
+                "y2": 607,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_186.jpg",
+        "objects": [
+            {
+                "x1": 602,
+                "y1": 297,
+                "x2": 951,
+                "y2": 539,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_187.jpg",
+        "objects": [
+            {
+                "x1": 495,
+                "y1": 286,
+                "x2": 1046,
+                "y2": 686,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_188.jpg",
+        "objects": [
+            {
+                "x1": 474,
+                "y1": 208,
+                "x2": 1124,
+                "y2": 640,
+                "class": "kubek"
+            }
+        ]
+    },
+    {
+        "image": "image_189.jpg",
+        "objects": [
+            {
+                "x1": 575,
+                "y1": 431,
+                "x2": 961,
+                "y2": 652,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_190.jpg",
+        "objects": [
+            {
+                "x1": 526,
+                "y1": 273,
+                "x2": 1022,
+                "y2": 521,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_191.jpg",
+        "objects": [
+            {
+                "x1": 495,
+                "y1": 255,
+                "x2": 1028,
+                "y2": 649,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_192.jpg",
+        "objects": [
+            {
+                "x1": 518,
+                "y1": 299,
+                "x2": 1053,
+                "y2": 600,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_193.jpg",
+        "objects": [
+            {
+                "x1": 467,
+                "y1": 155,
+                "x2": 1088,
+                "y2": 549,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_194.jpg",
+        "objects": [
+            {
+                "x1": 587,
+                "y1": 256,
+                "x2": 951,
+                "y2": 491,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_195.jpg",
+        "objects": [
+            {
+                "x1": 420,
+                "y1": 232,
+                "x2": 1111,
+                "y2": 528,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_196.jpg",
+        "objects": [
+            {
+                "x1": 566,
+                "y1": 264,
+                "x2": 961,
+                "y2": 502,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_197.jpg",
+        "objects": [
+            {
+                "x1": 601,
+                "y1": 335,
+                "x2": 1026,
+                "y2": 688,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_198.jpg",
+        "objects": [
+            {
+                "x1": 589,
+                "y1": 225,
+                "x2": 944,
+                "y2": 617,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_199.jpg",
+        "objects": [
+            {
+                "x1": 439,
+                "y1": 257,
+                "x2": 1089,
+                "y2": 674,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_200.jpg",
+        "objects": [
+            {
+                "x1": 523,
+                "y1": 227,
+                "x2": 1012,
+                "y2": 667,
+                "class": "miseczka"
+            }
+        ]
+    },
+    {
+        "image": "image_201.jpg",
+        "objects": [
+            {
+                "x1": 1047,
+                "y1": 123,
+                "x2": 485,
+                "y2": 502,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_202.jpg",
+        "objects": [
+            {
+                "x1": 1138,
+                "y1": 607,
+                "x2": 413,
+                "y2": 97,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_203.jpg",
+        "objects": [
+            {
+                "x1": 1295,
+                "y1": 277,
+                "x2": 148,
+                "y2": 588,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_204.jpg",
+        "objects": [
+            {
+                "x1": 330,
+                "y1": 355,
+                "x2": 1226,
+                "y2": 475,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_205.jpg",
+        "objects": [
+            {
+                "x1": 908,
+                "y1": 81,
+                "x2": 986,
+                "y2": 717,
+                "class": "widelec"
+            },
+            {
+                "x1": 1132,
+                "y1": 727,
+                "x2": 1053,
+                "y2": 56,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_206.jpg",
+        "objects": [
+            {
+                "x1": 886,
+                "y1": 754,
+                "x2": 812,
+                "y2": 26,
+                "class": "noz"
+            },
+            {
+                "x1": 647,
+                "y1": 63,
+                "x2": 740,
+                "y2": 750,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_207.jpg",
+        "objects": [
+            {
+                "x1": 1041,
+                "y1": 292,
+                "x2": 552,
+                "y2": 461,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_208.jpg",
+        "objects": [
+            {
+                "x1": 578,
+                "y1": 193,
+                "x2": 1149,
+                "y2": 480,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_209.jpg",
+        "objects": [
+            {
+                "x1": 1119,
+                "y1": 53,
+                "x2": 259,
+                "y2": 684,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_210.jpg",
+        "objects": [
+            {
+                "x1": 966,
+                "y1": 321,
+                "x2": 1219,
+                "y2": 479,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_211.jpg",
+        "objects": [
+            {
+                "x1": 533,
+                "y1": 424,
+                "x2": 640,
+                "y2": 520,
+                "class": "widelec"
+            },
+            {
+                "x1": 894,
+                "y1": 428,
+                "x2": 1007,
+                "y2": 525,
+                "class": "widelec"
+            },
+            {
+                "x1": 850,
+                "y1": 442,
+                "x2": 686,
+                "y2": 256,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_212.jpg",
+        "objects": [
+            {
+                "x1": 895,
+                "y1": 327,
+                "x2": 657,
+                "y2": 437,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_213.jpg",
+        "objects": [
+            {
+                "x1": 874,
+                "y1": 344,
+                "x2": 553,
+                "y2": 424,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_214.jpg",
+        "objects": [
+            {
+                "x1": 590,
+                "y1": 555,
+                "x2": 934,
+                "y2": 274,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_215.jpg",
+        "objects": [
+            {
+                "x1": 935,
+                "y1": 199,
+                "x2": 994,
+                "y2": 686,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_216.jpg",
+        "objects": [
+            {
+                "x1": 729,
+                "y1": 493,
+                "x2": 789,
+                "y2": 220,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_217.jpg",
+        "objects": [
+            {
+                "x1": 751,
+                "y1": 504,
+                "x2": 787,
+                "y2": 236,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_218.jpg",
+        "objects": [
+            {
+                "x1": 599,
+                "y1": 579,
+                "x2": 918,
+                "y2": 249,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_219.jpg",
+        "objects": [
+            {
+                "x1": 959,
+                "y1": 554,
+                "x2": 599,
+                "y2": 133,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_220.jpg",
+        "objects": [
+            {
+                "x1": 705,
+                "y1": 214,
+                "x2": 822,
+                "y2": 546,
+                "class": "trzepaczka"
+            }
+        ]
+    },
+    {
+        "image": "image_221.jpg",
+        "objects": [
+            {
+                "x1": 582,
+                "y1": 218,
+                "x2": 948,
+                "y2": 577,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_222.jpg",
+        "objects": [
+            {
+                "x1": 494,
+                "y1": 90,
+                "x2": 1042,
+                "y2": 662,
+                "class": "paleczki"
+            }
+        ]
+    },
+    {
+        "image": "image_223.jpg",
+        "objects": [
+            {
+                "x1": 808,
+                "y1": 565,
+                "x2": 730,
+                "y2": 190,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_224.jpg",
+        "objects": [
+            {
+                "x1": 703,
+                "y1": 184,
+                "x2": 833,
+                "y2": 557,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_225.jpg",
+        "objects": [
+            {
+                "x1": 805,
+                "y1": 587,
+                "x2": 720,
+                "y2": 172,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_226.jpg",
+        "objects": [
+            {
+                "x1": 845,
+                "y1": 746,
+                "x2": 688,
+                "y2": 50,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_227.jpg",
+        "objects": [
+            {
+                "x1": 505,
+                "y1": 631,
+                "x2": 1031,
+                "y2": 128,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_228.jpg",
+        "objects": [
+            {
+                "x1": 619,
+                "y1": 410,
+                "x2": 1087,
+                "y2": 166,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_229.jpg",
+        "objects": [
+            {
+                "x1": 933,
+                "y1": 273,
+                "x2": 590,
+                "y2": 550,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_230.jpg",
+        "objects": [
+            {
+                "x1": 507,
+                "y1": 325,
+                "x2": 957,
+                "y2": 543,
+                "class": "widelec"
+            },
+            {
+                "x1": 554,
+                "y1": 257,
+                "x2": 1026,
+                "y2": 477,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_231.jpg",
+        "objects": [
+            {
+                "x1": 533,
+                "y1": 632,
+                "x2": 992,
+                "y2": 121,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_232.jpg",
+        "objects": [
+            {
+                "x1": 528,
+                "y1": 154,
+                "x2": 1005,
+                "y2": 604,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_233.jpg",
+        "objects": [
+            {
+                "x1": 946,
+                "y1": 259,
+                "x2": 600,
+                "y2": 504,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_234.jpg",
+        "objects": [
+            {
+                "x1": 527,
+                "y1": 509,
+                "x2": 947,
+                "y2": 241,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_235.jpg",
+        "objects": [
+            {
+                "x1": 800,
+                "y1": 693,
+                "x2": 694,
+                "y2": 63,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_236.jpg",
+        "objects": [
+            {
+                "x1": 777,
+                "y1": 78,
+                "x2": 916,
+                "y2": 711,
+                "class": "lyzka"
+            },
+            {
+                "x1": 640,
+                "y1": 67,
+                "x2": 754,
+                "y2": 702,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_237.jpg",
+        "objects": [
+            {
+                "x1": 826,
+                "y1": 710,
+                "x2": 720,
+                "y2": 52,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_238.jpg",
+        "objects": [
+            {
+                "x1": 662,
+                "y1": 717,
+                "x2": 921,
+                "y2": 29,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_239.jpg",
+        "objects": [
+            {
+                "x1": 965,
+                "y1": 165,
+                "x2": 562,
+                "y2": 597,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_240.jpg",
+        "objects": [
+            {
+                "x1": 635,
+                "y1": 196,
+                "x2": 743,
+                "y2": 546,
+                "class": "lyzka"
+            },
+            {
+                "x1": 790,
+                "y1": 172,
+                "x2": 878,
+                "y2": 551,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_241.jpg",
+        "objects": [
+            {
+                "x1": 521,
+                "y1": 190,
+                "x2": 965,
+                "y2": 705,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_242.jpg",
+        "objects": [
+            {
+                "x1": 763,
+                "y1": 20,
+                "x2": 911,
+                "y2": 749,
+                "class": "lyzka"
+            },
+            {
+                "x1": 626,
+                "y1": 23,
+                "x2": 733,
+                "y2": 754,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_243.jpg",
+        "objects": [
+            {
+                "x1": 619,
+                "y1": 479,
+                "x2": 936,
+                "y2": 384,
+                "class": "widelec"
+            },
+            {
+                "x1": 603,
+                "y1": 408,
+                "x2": 910,
+                "y2": 305,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_244.jpg",
+        "objects": [
+            {
+                "x1": 549,
+                "y1": 73,
+                "x2": 1006,
+                "y2": 691,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_245.jpg",
+        "objects": [
+            {
+                "x1": 552,
+                "y1": 712,
+                "x2": 979,
+                "y2": 36,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_246.jpg",
+        "objects": [
+            {
+                "x1": 490,
+                "y1": 136,
+                "x2": 1054,
+                "y2": 599,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_247.jpg",
+        "objects": [
+            {
+                "x1": 463,
+                "y1": 670,
+                "x2": 1075,
+                "y2": 99,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_248.jpg",
+        "objects": [
+            {
+                "x1": 1063,
+                "y1": 721,
+                "x2": 448,
+                "y2": 34,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_249.jpg",
+        "objects": [
+            {
+                "x1": 636,
+                "y1": 558,
+                "x2": 900,
+                "y2": 199,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_250.jpg",
+        "objects": [
+            {
+                "x1": 421,
+                "y1": 24,
+                "x2": 1116,
+                "y2": 737,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_251.jpg",
+        "objects": [
+            {
+                "x1": 470,
+                "y1": 201,
+                "x2": 1081,
+                "y2": 574,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_252.jpg",
+        "objects": [
+            {
+                "x1": 495,
+                "y1": 727,
+                "x2": 1045,
+                "y2": 33,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_253.jpg",
+        "objects": [
+            {
+                "x1": 742,
+                "y1": 80,
+                "x2": 953,
+                "y2": 707,
+                "class": "lyzka"
+            },
+            {
+                "x1": 604,
+                "y1": 92,
+                "x2": 738,
+                "y2": 716,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_254.jpg",
+        "objects": [
+            {
+                "x1": 598,
+                "y1": 620,
+                "x2": 955,
+                "y2": 155,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_255.jpg",
+        "objects": [
+            {
+                "x1": 548,
+                "y1": 225,
+                "x2": 994,
+                "y2": 476,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_256.jpg",
+        "objects": [
+            {
+                "x1": 692,
+                "y1": 476,
+                "x2": 987,
+                "y2": 252,
+                "class": "lyzka"
+            },
+            {
+                "x1": 565,
+                "y1": 540,
+                "x2": 779,
+                "y2": 207,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_257.jpg",
+        "objects": [
+            {
+                "x1": 476,
+                "y1": 556,
+                "x2": 1025,
+                "y2": 236,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_258.jpg",
+        "objects": [
+            {
+                "x1": 553,
+                "y1": 635,
+                "x2": 988,
+                "y2": 135,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_259.jpg",
+        "objects": [
+            {
+                "x1": 608,
+                "y1": 686,
+                "x2": 978,
+                "y2": 82,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_260.jpg",
+        "objects": [
+            {
+                "x1": 637,
+                "y1": 628,
+                "x2": 1004,
+                "y2": 212,
+                "class": "widelec"
+            },
+            {
+                "x1": 575,
+                "y1": 600,
+                "x2": 917,
+                "y2": 130,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_261.jpg",
+        "objects": [
+            {
+                "x1": 755,
+                "y1": 98,
+                "x2": 828,
+                "y2": 682,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_262.jpg",
+        "objects": [
+            {
+                "x1": 703,
+                "y1": 26,
+                "x2": 794,
+                "y2": 729,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_263.jpg",
+        "objects": [
+            {
+                "x1": 932,
+                "y1": 283,
+                "x2": 600,
+                "y2": 477,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_264.jpg",
+        "objects": [
+            {
+                "x1": 591,
+                "y1": 237,
+                "x2": 935,
+                "y2": 521,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_265.jpg",
+        "objects": [
+            {
+                "x1": 827,
+                "y1": 719,
+                "x2": 688,
+                "y2": 45,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_266.jpg",
+        "objects": [
+            {
+                "x1": 594,
+                "y1": 478,
+                "x2": 926,
+                "y2": 350,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_267.jpg",
+        "objects": [
+            {
+                "x1": 900,
+                "y1": 84,
+                "x2": 558,
+                "y2": 707,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_268.jpg",
+        "objects": [
+            {
+                "x1": 432,
+                "y1": 608,
+                "x2": 1097,
+                "y2": 171,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_269.jpg",
+        "objects": [
+            {
+                "x1": 948,
+                "y1": 88,
+                "x2": 489,
+                "y2": 602,
+                "class": "widelec"
+            },
+            {
+                "x1": 1039,
+                "y1": 157,
+                "x2": 574,
+                "y2": 695,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_270.jpg",
+        "objects": [
+            {
+                "x1": 586,
+                "y1": 683,
+                "x2": 956,
+                "y2": 88,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_271.jpg",
+        "objects": [
+            {
+                "x1": 985,
+                "y1": 52,
+                "x2": 528,
+                "y2": 720,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_272.jpg",
+        "objects": [
+            {
+                "x1": 641,
+                "y1": 66,
+                "x2": 763,
+                "y2": 727,
+                "class": "widelec"
+            },
+            {
+                "x1": 777,
+                "y1": 34,
+                "x2": 891,
+                "y2": 719,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_273.jpg",
+        "objects": [
+            {
+                "x1": 764,
+                "y1": 141,
+                "x2": 809,
+                "y2": 627,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_274.jpg",
+        "objects": [
+            {
+                "x1": 560,
+                "y1": 699,
+                "x2": 970,
+                "y2": 66,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_275.jpg",
+        "objects": [
+            {
+                "x1": 734,
+                "y1": 676,
+                "x2": 801,
+                "y2": 81,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_276.jpg",
+        "objects": [
+            {
+                "x1": 514,
+                "y1": 503,
+                "x2": 1012,
+                "y2": 267,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_277.jpg",
+        "objects": [
+            {
+                "x1": 543,
+                "y1": 136,
+                "x2": 993,
+                "y2": 621,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_278.jpg",
+        "objects": [
+            {
+                "x1": 538,
+                "y1": 626,
+                "x2": 1023,
+                "y2": 147,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_279.jpg",
+        "objects": [
+            {
+                "x1": 997,
+                "y1": 198,
+                "x2": 509,
+                "y2": 583,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_280.jpg",
+        "objects": [
+            {
+                "x1": 1067,
+                "y1": 574,
+                "x2": 471,
+                "y2": 198,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_281.jpg",
+        "objects": [
+            {
+                "x1": 640,
+                "y1": 657,
+                "x2": 928,
+                "y2": 100,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_282.jpg",
+        "objects": [
+            {
+                "x1": 468,
+                "y1": 753,
+                "x2": 1068,
+                "y2": 22,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_283.jpg",
+        "objects": [
+            {
+                "x1": 1019,
+                "y1": 177,
+                "x2": 483,
+                "y2": 609,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_284.jpg",
+        "objects": [
+            {
+                "x1": 1117,
+                "y1": 731,
+                "x2": 418,
+                "y2": 59,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_285.jpg",
+        "objects": [
+            {
+                "x1": 1071,
+                "y1": 686,
+                "x2": 466,
+                "y2": 67,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_286.jpg",
+        "objects": [
+            {
+                "x1": 486,
+                "y1": 335,
+                "x2": 1046,
+                "y2": 424,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_287.jpg",
+        "objects": [
+            {
+                "x1": 1010,
+                "y1": 230,
+                "x2": 521,
+                "y2": 528,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_288.jpg",
+        "objects": [
+            {
+                "x1": 1073,
+                "y1": 320,
+                "x2": 439,
+                "y2": 426,
+                "class": "noz"
+            }
+        ]
+    },
+    {
+        "image": "image_289.jpg",
+        "objects": [
+            {
+                "x1": 545,
+                "y1": 684,
+                "x2": 1006,
+                "y2": 81,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_290.jpg",
+        "objects": [
+            {
+                "x1": 558,
+                "y1": 50,
+                "x2": 974,
+                "y2": 710,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_291.jpg",
+        "objects": [
+            {
+                "x1": 764,
+                "y1": 579,
+                "x2": 856,
+                "y2": 192,
+                "class": "lyzka"
+            },
+            {
+                "x1": 764,
+                "y1": 578,
+                "x2": 675,
+                "y2": 185,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_292.jpg",
+        "objects": [
+            {
+                "x1": 508,
+                "y1": 679,
+                "x2": 1044,
+                "y2": 96,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_293.jpg",
+        "objects": [
+            {
+                "x1": 519,
+                "y1": 625,
+                "x2": 1005,
+                "y2": 119,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_294.jpg",
+        "objects": [
+            {
+                "x1": 706,
+                "y1": 74,
+                "x2": 797,
+                "y2": 682,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_295.jpg",
+        "objects": [
+            {
+                "x1": 438,
+                "y1": 295,
+                "x2": 1070,
+                "y2": 414,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_296.jpg",
+        "objects": [
+            {
+                "x1": 931,
+                "y1": 285,
+                "x2": 596,
+                "y2": 489,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_297.jpg",
+        "objects": [
+            {
+                "x1": 722,
+                "y1": 145,
+                "x2": 821,
+                "y2": 623,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_298.jpg",
+        "objects": [
+            {
+                "x1": 747,
+                "y1": 674,
+                "x2": 805,
+                "y2": 34,
+                "class": "lyzka"
+            }
+        ]
+    },
+    {
+        "image": "image_299.jpg",
+        "objects": [
+            {
+                "x1": 890,
+                "y1": 654,
+                "x2": 743,
+                "y2": 107,
+                "class": "lyzka"
+            },
+            {
+                "x1": 728,
+                "y1": 650,
+                "x2": 606,
+                "y2": 93,
+                "class": "widelec"
+            }
+        ]
+    },
+    {
+        "image": "image_300.jpg",
+        "objects": [
+            {
+                "x1": 623,
+                "y1": 79,
+                "x2": 743,
+                "y2": 677,
+                "class": "widelec"
+            },
+            {
+                "x1": 783,
+                "y1": 89,
+                "x2": 908,
+                "y2": 673,
+                "class": "lyzka"
+            }
+        ]
+    }
+]
