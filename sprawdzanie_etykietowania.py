@@ -4,7 +4,6 @@ import cv2
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
 
-# Funkcja do wczytania danych z pliku JSON
 def load_json(json_file):
     with open(json_file, 'r') as f:
         return json.load(f)
@@ -13,9 +12,8 @@ def load_json(json_file):
 def visualize_borders(image_path, annotations):
     # Wczytaj obraz za pomocą OpenCV
     image = cv2.imread(image_path)
-    image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)  # Konwertowanie do RGB dla matplotlib
+    image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)  
     
-    # Utwórz wykres za pomocą matplotlib
     fig, ax = plt.subplots()
     ax.imshow(image)
     
